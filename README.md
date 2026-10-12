@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+Technical Artist with 5+ years of professional experience helping projects with optimization, VFX, shaders and R&D systems.
 
 <!--
 **AlwinJoshy/AlwinJoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
