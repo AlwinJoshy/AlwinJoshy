@@ -1,4 +1,4 @@
-## About me
+## Hi am Alwin Joshy
 Technical Artist with 5+ years of professional experience helping projects with optimization, VFX, shaders and R&D systems.
 
 <!--
